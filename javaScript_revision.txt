@@ -1,0 +1,51 @@
+Variables = these are the storing boxes which can store nos,integers,strings,bolean values,decimal nos.
+
+string = they are text form and it is necessary to write them in double cottation.
+
+conditional programming = these are the statements which are used to define a condition.if- else is a conditional statements.Example- if trex touches obstacle.
+
+lopping statements = these are the statements which are used to iterate a string or nos,etc by our need.Ex-for loop,while.
+
+gameState =  it usually defines the state of the game.Ex-serve,play,end;
+
+function = there are 2 types of function - 1.system defined function,example-function setup,function preload,function draw.
+                                           2.user  defined function,example-function spawnClouds,spawnObstacle.
+functon are used to delicate complex tasks to  seperate function so that the code is redeable.And the same function can becalled many times.
+
+
+                                                                  T- REX  GAME
+1. infinite scrolling ground.
+2.arrays - syntax of array.ex-  var a = [1,2,3,4,infinity]
+we use arrays when we have to store similar datain one memory location - ex storring of roll nos in a class.
+
+3.Giving animation - loadAnimation
+
+4. switch statements.
+
+5. grouping of sprites.
+
+6. logical writing of our own function - ex - touching.
+
+7. GitBash.
+
+8. creating Liabrary.
+
+9. code indentation.
+
+                                                                       ANGRY BIRDS
+1.Matter.js or the physics engine.
+2.Class is creating blueprints.ex - class Box,  class Bird
+3.creating objects-ex- box1=new Box.
+4.JSON format.
+5.calling API.
+6.constrained bodies.
+7. code debugging.
+8.push and pop
+
+                                                                        CAR RACING GAMES
+
+1.database - google firebase;
+2. how to add the config in index.html.
+3. how to write database.
+4.how to read databse.
+5. how to update database.
